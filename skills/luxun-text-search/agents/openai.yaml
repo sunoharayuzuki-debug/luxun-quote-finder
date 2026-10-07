@@ -1,0 +1,4 @@
+interface:
+  display_name: "鲁迅原句查出处"
+  short_description: "检索本地鲁迅全集，定位原句篇名卷页、初刊注释及对应扫描页证据"
+  default_prompt: "请使用 $luxun-text-search 查找这句话的篇名、卷页和初刊注释，并标明待核验的信息。"

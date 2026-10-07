@@ -1,0 +1,7 @@
+data/
+*.pdf
+*.sqlite*
+__pycache__/
+*.pyc
+local.json
+.env
